@@ -1,0 +1,11 @@
+<taglib>
+   <tlib-version>1.0</tlib-version>
+   <jsp-version>2.0</jsp-version>
+   <short-name>Rajesh TagLibrary</short-name>
+   
+   <tag>
+      <name>Rajesh</name>
+      <tag-class>com.rajesh.RajeshTag</tag-class>
+      <body-content>scriptless</body-content>
+   </tag>
+</taglib>
